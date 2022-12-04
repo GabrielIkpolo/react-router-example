@@ -107,7 +107,7 @@ You can style it the way you want.
     You can style it the way you want.
 
 
-## You can submit offline to me from the begining from the 16th to 20th Dec. 2022  
+## You can submit offline to me begining from the 16th to 20th Dec. 2022  
     Or you can send me the url to an online repo where it is stored.
     Or better still, you could host it on render and send me the link.
 
