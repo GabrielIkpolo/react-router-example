@@ -68,3 +68,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#
+# Your Assignment
+
+Create a branch and call it what ever name you like. Eg "react-router-example"
+  ####  `git checkout -b react-router-example`
+
+Get the repository form the github site
+
+### `git pull --rebase <the-github-repo-url>`
+
+Once done, you can install react-router-dom
+
+###     `npm install react-router-dom`
+
+Alternatively,You could just install everything listed in the package.json if you don't have it already.
+
+###     `npm install`
+
+When all is done run "npm run start" to see the demo locally.
+
+
+# Your Task
+
+### Create your own react router example
+
+You have to be creative with it.
+
+I will need 7 pages to navigate to, namely:
+
+Home, About, Blog, Events, Interest, FAQ,  and Quotes
+
+You can style it the way you want.
+
+## Impliment the  bottom Bar to Have your Name, Matt. No. and Dept.
+    You can style it the way you want.
+
+
+## You can submit offline to me from the begining from the 16th to 20th Dec. 2022  
+    Or you can send me the url to an online repo where it is stored.
+    Or better still, you could host it on render and send me the link.
+
+    Compliments of the season!
+
+
