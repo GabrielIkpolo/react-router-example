@@ -1,4 +1,7 @@
 .buttomBar{
     background-color: black;
     color: white;
+    padding-top: 4rem;
+    text-align: center;
+    padding-bottom: 2rem;
 }
